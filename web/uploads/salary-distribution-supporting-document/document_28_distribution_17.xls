@@ -1,0 +1,238 @@
+
+    <table class="table" style="border-top:none">
+        <tbody><tr>
+            <td style="border-top:none" colspan="5"><h1 class="text-center" id="report_preview_area_title">All customers</h1></td>
+        </tr>
+    </tbody></table>
+    <div id="report_preview_area"><div class="table-responsive">
+    <table class="table table-bordered" id="report_table">
+        <tbody><tr>
+                            <th>First name</th>                            <th>Middle name</th>                            <th>Last name</th>                            <th>Email address</th>                            <th>Phone number</th>                    </tr>
+                    <tr>
+                                    <td>Victor</td>                                    <td>Natalis</td>                                    <td>Mataba</td>                                    <td>vmataba0@gmail.com</td>                                    <td>+255 759 727 612</td>                            </tr>
+                    <tr>
+                                    <td>Bruno</td>                                    <td></td>                                    <td>Moyo</td>                                    <td>brunomoyo70@gmail.com</td>                                    <td>+255 719 696 023</td>                            </tr>
+                    <tr>
+                                    <td>Juma </td>                                    <td></td>                                    <td>Mbega</td>                                    <td>juma.mbega@metropolitan.co.tz</td>                                    <td>+255 718 686 268</td>                            </tr>
+                    <tr>
+                                    <td>Irene</td>                                    <td></td>                                    <td>Simya</td>                                    <td>irene@wasafimedia.com</td>                                    <td>+255 718 476 095</td>                            </tr>
+                    <tr>
+                                    <td>Jesca</td>                                    <td></td>                                    <td>Cathbet</td>                                    <td>jesca.cathbeth@metropolitan.co.tz</td>                                    <td>+255 652 941 788</td>                            </tr>
+                    <tr>
+                                    <td>Juma</td>                                    <td></td>                                    <td>Mbega</td>                                    <td>jjmbega@gmail.com</td>                                    <td>+255 625 549 274</td>                            </tr>
+                    <tr>
+                                    <td>Bruno</td>                                    <td>Egdi</td>                                    <td>Moyo</td>                                    <td>bruno.moyo@yahoo.com</td>                                    <td>+255 719 696 027</td>                            </tr>
+                    <tr>
+                                    <td>Zelda</td>                                    <td>lucas</td>                                    <td>Lucas</td>                                    <td>zeldalucas01@gmail.com</td>                                    <td>+255 756 657 780</td>                            </tr>
+                    <tr>
+                                    <td>Zelda</td>                                    <td>lucas</td>                                    <td>Lucas</td>                                    <td>zeldalucas@gmail.com</td>                                    <td>+255 656 577 826</td>                            </tr>
+                    <tr>
+                                    <td>PETRONILA</td>                                    <td>FOY</td>                                    <td>OROTHA</td>                                    <td>foygoodluck85@gmail.com</td>                                    <td>+255 713 991 278</td>                            </tr>
+                    <tr>
+                                    <td>Desy</td>                                    <td>Ernest</td>                                    <td>Ulimali</td>                                    <td>desy@wasafimedia.com</td>                                    <td>+255 719 955 966</td>                            </tr>
+                    <tr>
+                                    <td>ENOCE</td>                                    <td>MABEYO</td>                                    <td>NYANDA</td>                                    <td>nyandamabeyo@gmail.com</td>                                    <td>+255 717 095 609</td>                            </tr>
+                    <tr>
+                                    <td>BENSON</td>                                    <td>PENIEL</td>                                    <td>MREMA</td>                                    <td>mremapeniel@gmail.com</td>                                    <td>+255 759 959 140</td>                            </tr>
+                    <tr>
+                                    <td>JIMMY</td>                                    <td>SOLOMON</td>                                    <td>MOLLEL</td>                                    <td>mollesjimmsolo@gamail.com</td>                                    <td>+255 762 952 533</td>                            </tr>
+                    <tr>
+                                    <td>Edina</td>                                    <td>mika</td>                                    <td>john</td>                                    <td>bafshsh@gmail.com</td>                                    <td>+255 654 735 688</td>                            </tr>
+                    <tr>
+                                    <td>NEEMIA </td>                                    <td>SAWMEL</td>                                    <td>NYADHI</td>                                    <td>patricklinus933@gmail.com</td>                                    <td>+255 768 588 155</td>                            </tr>
+                    <tr>
+                                    <td>GERALD</td>                                    <td>MAJELLA</td>                                    <td>KAFUKU</td>                                    <td>kagukugm@icloud.com</td>                                    <td>+255 766 604 977</td>                            </tr>
+                    <tr>
+                                    <td>Salim</td>                                    <td>Ahmed</td>                                    <td>Salim</td>                                    <td>Salimahmed@gmail.com</td>                                    <td>+255 719 633 105</td>                            </tr>
+                    <tr>
+                                    <td>Salim</td>                                    <td>Ahmed</td>                                    <td>Salim</td>                                    <td>salimsalim@gmail.com</td>                                    <td>+255 718 163 423</td>                            </tr>
+                    <tr>
+                                    <td>Syprian</td>                                    <td>Gaitan</td>                                    <td>Dagila</td>                                    <td>sypriandagila@gmail.com</td>                                    <td>+255 712 230 323</td>                            </tr>
+                    <tr>
+                                    <td>Juma</td>                                    <td>Abdallah</td>                                    <td>Njwayo</td>                                    <td>Jumaabdallah@gmail.com</td>                                    <td>+255 713 675 759</td>                            </tr>
+                    <tr>
+                                    <td>ANORD </td>                                    <td>KAMALA</td>                                    <td>MTATIRO</td>                                    <td>rahimabubakar2016@gmail.com</td>                                    <td>+255 765 637 986</td>                            </tr>
+                    <tr>
+                                    <td>JOHN</td>                                    <td>PETER</td>                                    <td>SIPENDI</td>                                    <td>enterprisesekon@gmail.com</td>                                    <td>+255 754 786 585</td>                            </tr>
+                    <tr>
+                                    <td>OAMARY</td>                                    <td>ALI</td>                                    <td>MALOBA</td>                                    <td>omarymalogo03@gmail.com</td>                                    <td>+255 659 496 355</td>                            </tr>
+                    <tr>
+                                    <td>SAID</td>                                    <td>OMARY</td>                                    <td>HAMAD</td>                                    <td>saidomary@gmail.com</td>                                    <td>+255 622 097 500</td>                            </tr>
+                    <tr>
+                                    <td>Aman</td>                                    <td>Ashery</td>                                    <td>Ashery</td>                                    <td>sijohn9@gmai.com</td>                                    <td>+255 717 245 526</td>                            </tr>
+                    <tr>
+                                    <td>JULIANA </td>                                    <td>LAZARO</td>                                    <td>MGHWELEJA</td>                                    <td>julianamghweja@gmail.com</td>                                    <td>+255 713 103 804</td>                            </tr>
+                    <tr>
+                                    <td>SALUM</td>                                    <td>ABDALLAH</td>                                    <td>KISAGALA</td>                                    <td>ferdemlyn.fi6915@gmail.com</td>                                    <td>+255 687 666 667</td>                            </tr>
+                    <tr>
+                                    <td>REGINA </td>                                    <td>EMILIAN</td>                                    <td>MICHAEL</td>                                    <td>adrteam@gmail.com</td>                                    <td>+255 769 733 815</td>                            </tr>
+                    <tr>
+                                    <td>REGINA</td>                                    <td>RWEGASIRA</td>                                    <td>KAMARA</td>                                    <td>adrteam8@gmail.com</td>                                    <td>+255 689 139 355</td>                            </tr>
+                    <tr>
+                                    <td>PAUL</td>                                    <td>MBITA</td>                                    <td>KINGW'ENA</td>                                    <td>gammatajuma@gmail.com</td>                                    <td>+255 674 312 872</td>                            </tr>
+                    <tr>
+                                    <td>REBECCA</td>                                    <td>JAMES</td>                                    <td>LUBASHA</td>                                    <td>rahimabubakar@gmail.com</td>                                    <td>+255 769 047 678</td>                            </tr>
+                    <tr>
+                                    <td>PETER</td>                                    <td>RAMADHAN</td>                                    <td>CHADE</td>                                    <td>peterramadhan@gmail.com</td>                                    <td>+255 784 686 588</td>                            </tr>
+                    <tr>
+                                    <td>EMILIANA </td>                                    <td>DAVID</td>                                    <td>SHIBANDA</td>                                    <td>jay19mbaraka@gmail.com</td>                                    <td>+255 656 191 010</td>                            </tr>
+                    <tr>
+                                    <td>MOHAMED</td>                                    <td>SAID</td>                                    <td>JUMA</td>                                    <td>patricklinus933@yahoo.com</td>                                    <td>+255 765 966 606</td>                            </tr>
+                    <tr>
+                                    <td>PETER</td>                                    <td>SEVERINE</td>                                    <td>MILLO</td>                                    <td>patricklinus93@yahoo.com</td>                                    <td>+255 654 444 899</td>                            </tr>
+                    <tr>
+                                    <td>CLARA </td>                                    <td>PAUL</td>                                    <td>ERANGA</td>                                    <td>patricklinus9@gmail.com</td>                                    <td>+255 672 044 654</td>                            </tr>
+                    <tr>
+                                    <td>WILLIAM </td>                                    <td>JOSEPH</td>                                    <td>KOMBA</td>                                    <td>jay19mbarak@gmail.com</td>                                    <td>+255 716 082 100</td>                            </tr>
+                    <tr>
+                                    <td>SULEIMAN</td>                                    <td>MUNGIYA</td>                                    <td>MZEE</td>                                    <td>rahma.abeid@yahoo.com</td>                                    <td>+255 715 535 318</td>                            </tr>
+                    <tr>
+                                    <td>Frida</td>                                    <td>Korsini</td>                                    <td>Martongo</td>                                    <td>siajihn9@gmail.com</td>                                    <td>+255 753 845 432</td>                            </tr>
+                    <tr>
+                                    <td>BUILDTECH ENGINEERING COMPANY LIMITED</td>                                    <td></td>                                    <td>BUILDTECH ENGINEERING COMPANY LIMITED</td>                                    <td>muksinsharban29@gmail.com</td>                                    <td>+255 714 999 604</td>                            </tr>
+                    <tr>
+                                    <td>MOTHERS OF MERCY</td>                                    <td>JUNIOR</td>                                    <td>ACADEMIC</td>                                    <td>rhodamaholi@gmail.com</td>                                    <td>+255 784 992 872</td>                            </tr>
+                    <tr>
+                                    <td>NASSORO</td>                                    <td>KHERI</td>                                    <td>BARAZA</td>                                    <td>annajkaps91@gmail.com</td>                                    <td>+255 718 474 946</td>                            </tr>
+                    <tr>
+                                    <td>ADAM</td>                                    <td>PETER</td>                                    <td>MLWALE</td>                                    <td>annajkaps@gmail.com</td>                                    <td>+255 765 117 296</td>                            </tr>
+                    <tr>
+                                    <td>VENANCE </td>                                    <td>JOHN</td>                                    <td>MWANSASU</td>                                    <td>venancejhn@gmail.com</td>                                    <td>+255 718 217 575</td>                            </tr>
+                    <tr>
+                                    <td>DONALD</td>                                    <td>JULIUS</td>                                    <td>MALISA</td>                                    <td>patricklinus@gmail.com</td>                                    <td>+255 712 117 994</td>                            </tr>
+                    <tr>
+                                    <td>ATHUMANI </td>                                    <td>ZUBERI</td>                                    <td>OMARY</td>                                    <td>patricklinus93@gmail.com</td>                                    <td>+255 692 855 562</td>                            </tr>
+                    <tr>
+                                    <td>Wema </td>                                    <td>Juma</td>                                    <td>Mintanga</td>                                    <td>siajohn9@gmail.cm</td>                                    <td>+255 714 380 776</td>                            </tr>
+                    <tr>
+                                    <td>khamis</td>                                    <td>Salum</td>                                    <td>Khamis</td>                                    <td>siajohn9@gmail.com</td>                                    <td>+255 654 570 671</td>                            </tr>
+                    <tr>
+                                    <td>Salum</td>                                    <td>Shaban</td>                                    <td>Ally</td>                                    <td>siajohn@gmail.com</td>                                    <td>+255 717 273 665</td>                            </tr>
+                    <tr>
+                                    <td>FITINA</td>                                    <td>PETRO</td>                                    <td>BILONKWA</td>                                    <td>jaokarisi@gmail.com</td>                                    <td>+255 767 382 643</td>                            </tr>
+                    <tr>
+                                    <td>KARIM </td>                                    <td>ABDI</td>                                    <td>KASSINGO</td>                                    <td>burhankawambwa6@gmail.com</td>                                    <td>+255 658 572 797</td>                            </tr>
+                    <tr>
+                                    <td>HASSAN</td>                                    <td>IDD</td>                                    <td>HAMIS</td>                                    <td>hassannjeku@gmail.com</td>                                    <td>+255 715 291 951</td>                            </tr>
+                    <tr>
+                                    <td>Mathias</td>                                    <td>Mseti</td>                                    <td>Mseti</td>                                    <td>siajohnh@gmail.com</td>                                    <td>+255 652 724 219</td>                            </tr>
+                    <tr>
+                                    <td>SaryA</td>                                    <td>w</td>                                    <td>Joseph</td>                                    <td>saryaW@gmail.com</td>                                    <td>+255 712 352 336</td>                            </tr>
+                    <tr>
+                                    <td>JOAB</td>                                    <td>RUGUMYA</td>                                    <td>MASHUMBA</td>                                    <td>mashumbajoab12@gmail.com</td>                                    <td>+255 754 926 862</td>                            </tr>
+                    <tr>
+                                    <td>RUKIKO</td>                                    <td>MICHAEL</td>                                    <td>MANYENYI</td>                                    <td>patricklins@gmail.com</td>                                    <td>+255 655 301 041</td>                            </tr>
+                    <tr>
+                                    <td>ELIA </td>                                    <td>YOHANA</td>                                    <td>SENGOLI</td>                                    <td>patricklnus@gmail.com</td>                                    <td>+255 717 713 896</td>                            </tr>
+                    <tr>
+                                    <td>KHALID</td>                                    <td>JUMA</td>                                    <td>MWIDADI</td>                                    <td>patricklinus09@gmail.com</td>                                    <td>+255 714 404 400</td>                            </tr>
+                    <tr>
+                                    <td>ATHUMANI</td>                                    <td>ALLY</td>                                    <td>MNDOLWA</td>                                    <td>patrick933@gmail.com</td>                                    <td>+255 769 813 513</td>                            </tr>
+                    <tr>
+                                    <td>UPENDO</td>                                    <td>JEREMIA</td>                                    <td>MNG'OLAGE</td>                                    <td>mlulamuksin@gmail.com</td>                                    <td>+255 679 323 237</td>                            </tr>
+                    <tr>
+                                    <td>EDWARD </td>                                    <td>SYLVESTER</td>                                    <td>MABULA</td>                                    <td>noahmwaisemba@gmail.com</td>                                    <td>+255 718 333 263</td>                            </tr>
+                    <tr>
+                                    <td>PATISON</td>                                    <td>TAIM</td>                                    <td>SANGA</td>                                    <td>taimpatison11@yahoo.com</td>                                    <td>+255 765 074 208</td>                            </tr>
+                    <tr>
+                                    <td>JACKSON </td>                                    <td>NSIANKIRA</td>                                    <td>MEENA</td>                                    <td>jay191mbaraka@gmail.com</td>                                    <td>+255 758 222 270</td>                            </tr>
+                    <tr>
+                                    <td>ALBINUS</td>                                    <td>IBELELE</td>                                    <td>JOHN</td>                                    <td>patrickli933@gmail.com</td>                                    <td>+255 754 862 062</td>                            </tr>
+                    <tr>
+                                    <td>wema </td>                                    <td>juma</td>                                    <td>Mintanga</td>                                    <td>wemajuma@gmail.com</td>                                    <td>+255 712 438 078</td>                            </tr>
+                    <tr>
+                                    <td>Ramadhan</td>                                    <td>Mohamed</td>                                    <td>Mdillah</td>                                    <td>rama@gmail.com</td>                                    <td>+255 715 364 802</td>                            </tr>
+                    <tr>
+                                    <td>Gerald </td>                                    <td>James</td>                                    <td>Rathlomai</td>                                    <td>gerg@gmail.com</td>                                    <td>+255 767 866 943</td>                            </tr>
+                    <tr>
+                                    <td>Ramadhan </td>                                    <td>Zuberi</td>                                    <td>Hussein</td>                                    <td>ramadhan@gmail.com</td>                                    <td>+255 752 145 625</td>                            </tr>
+                    <tr>
+                                    <td>Salum</td>                                    <td>Rashid</td>                                    <td>Hussein</td>                                    <td>sia@gmail.com</td>                                    <td>+255 684 759 529</td>                            </tr>
+                    <tr>
+                                    <td>Baraka</td>                                    <td>Salumu</td>                                    <td>Hussein</td>                                    <td>perza@gmail.com</td>                                    <td>+255 714 273 666</td>                            </tr>
+                    <tr>
+                                    <td>GADIELI</td>                                    <td>ELIREHEMA</td>                                    <td>KIMAMBO</td>                                    <td>jay19mbaraka1@gmail.com</td>                                    <td>+255 784 539 361</td>                            </tr>
+                    <tr>
+                                    <td>MOHAMED </td>                                    <td>JUMA</td>                                    <td>NGULANGWA</td>                                    <td>jay199mbaraka@gmail.com</td>                                    <td>+255 745 509 088</td>                            </tr>
+                    <tr>
+                                    <td>BENJAMINI</td>                                    <td>SIMON</td>                                    <td>NGANGO</td>                                    <td>benjaminsimon66385435@gmail.com</td>                                    <td>+255 679 385 435</td>                            </tr>
+                    <tr>
+                                    <td>HAMISI</td>                                    <td>SAID</td>                                    <td>KALEMBUKA</td>                                    <td>patricklus933@gmail.com</td>                                    <td>+255 767 144 866</td>                            </tr>
+                    <tr>
+                                    <td>JOSEPH</td>                                    <td>NATHAN</td>                                    <td>KUMBURU</td>                                    <td>patricklinus3@gmail.com</td>                                    <td>+255 717 245 430</td>                            </tr>
+                    <tr>
+                                    <td>NICCANDER</td>                                    <td>ARNOLD</td>                                    <td>KILEO</td>                                    <td>danieljoshua757@gmail.com</td>                                    <td>+255 753 223 344</td>                            </tr>
+                    <tr>
+                                    <td>JOHN</td>                                    <td>ROBERT</td>                                    <td>NYONI</td>                                    <td>patrcklinus933@gmail.com</td>                                    <td>+255 657 656 435</td>                            </tr>
+                    <tr>
+                                    <td>Agaitan </td>                                    <td>Lupia</td>                                    <td>Gamasa</td>                                    <td>gamasa@gmail.com</td>                                    <td>+255 745 213 652</td>                            </tr>
+                    <tr>
+                                    <td>Tunu </td>                                    <td>Khamis</td>                                    <td>Sihembe</td>                                    <td>siajj@gmail.com</td>                                    <td>+255 714 927 293</td>                            </tr>
+                    <tr>
+                                    <td>OSTRA</td>                                    <td>GROUP</td>                                    <td>COMPANY</td>                                    <td>annajkapss91@gmail.com</td>                                    <td>+255 713 325 284</td>                            </tr>
+                    <tr>
+                                    <td>RAJABU</td>                                    <td>ALLY</td>                                    <td>ABDILAI</td>                                    <td>jay10mbaraka@gmail.com</td>                                    <td>+255 712 138 689</td>                            </tr>
+                    <tr>
+                                    <td>Amana</td>                                    <td>bank</td>                                    <td>bank</td>                                    <td>Amana@gmail.com</td>                                    <td>+255 769 635 051</td>                            </tr>
+                    <tr>
+                                    <td>HUSSEIN</td>                                    <td>SALLEHE</td>                                    <td>HUSSEIN</td>                                    <td>icklins933@gmail.com</td>                                    <td>+255 714 527 847</td>                            </tr>
+                    <tr>
+                                    <td>FLORA</td>                                    <td>SAMSON</td>                                    <td>MWAKYUSA</td>                                    <td>annakapps191@gmail.com</td>                                    <td>+255 713 925 453</td>                            </tr>
+                    <tr>
+                                    <td>Gloria </td>                                    <td>Joseph</td>                                    <td>Chonya</td>                                    <td>siaj9@gmail.com</td>                                    <td>+255 717 273 266</td>                            </tr>
+                    <tr>
+                                    <td>IBRAHIM</td>                                    <td>MIKA</td>                                    <td>NYANGE</td>                                    <td>patric@gmail.com</td>                                    <td>+255 718 873 184</td>                            </tr>
+                    <tr>
+                                    <td>ELIAM</td>                                    <td>KYARUZI</td>                                    <td>NSHEKANABO</td>                                    <td>temungasa@gmail.com</td>                                    <td>+255 656 966 540</td>                            </tr>
+                    <tr>
+                                    <td>BAKARI </td>                                    <td>ABDALLAH</td>                                    <td>MAHIZA</td>                                    <td>jaokalesi@gmail.com</td>                                    <td>+255 755 202 055</td>                            </tr>
+                    <tr>
+                                    <td>Loy</td>                                    <td>William</td>                                    <td>Mgoli</td>                                    <td>sia9@gmail.com</td>                                    <td>+255 786 050 924</td>                            </tr>
+                    <tr>
+                                    <td>Gloria</td>                                    <td>Joseph</td>                                    <td>Chonya</td>                                    <td>sia33@gmail.com</td>                                    <td>+255 745 236 542</td>                            </tr>
+                    <tr>
+                                    <td>Said</td>                                    <td>Mohamed</td>                                    <td>Isapo</td>                                    <td>siajohn99@gmqil.com</td>                                    <td>+255 717 273 666</td>                            </tr>
+                    <tr>
+                                    <td>HASHIM </td>                                    <td>ISSA</td>                                    <td>MRUTU</td>                                    <td>patrnus933@gmail.com</td>                                    <td>+255 687 263 808</td>                            </tr>
+                    <tr>
+                                    <td>BONIFACE </td>                                    <td>CHRISTOPHER</td>                                    <td>MWAKIBIJA</td>                                    <td>mwakibijaC23@gmail.com</td>                                    <td>+255 714 844 549</td>                            </tr>
+                    <tr>
+                                    <td>MARTIN</td>                                    <td>JOSEPH</td>                                    <td>NGONYANI</td>                                    <td>mngonyani265@gmail.com</td>                                    <td>+255 713 966 280</td>                            </tr>
+                    <tr>
+                                    <td>GWAKISA</td>                                    <td>BARDEN</td>                                    <td>MWAIKASU</td>                                    <td>mwaikasub74@gmail.com</td>                                    <td>+255 655 385 400</td>                            </tr>
+                    <tr>
+                                    <td>SAIDI </td>                                    <td>HAMZA</td>                                    <td>MNGUMI</td>                                    <td>muksinmlula@gmail.com</td>                                    <td>+255 713 532 322</td>                            </tr>
+                    <tr>
+                                    <td>HAJI </td>                                    <td>MUSSA</td>                                    <td>NDEMBO</td>                                    <td>hajindembo7@yahoo.com</td>                                    <td>+255 654 815 121</td>                            </tr>
+                    <tr>
+                                    <td>Mathias</td>                                    <td>Aniseth</td>                                    <td>Mathias</td>                                    <td>siaj6@gmail.com</td>                                    <td>+255 716 084 005</td>                            </tr>
+                    <tr>
+                                    <td>Fadhil</td>                                    <td>Paulo</td>                                    <td>William</td>                                    <td>fadhil9@gmail..com</td>                                    <td>+255 741 273 666</td>                            </tr>
+                    <tr>
+                                    <td>KELVIN </td>                                    <td>EMMANUEL</td>                                    <td>MASANJA</td>                                    <td>patricklinus9363@gmail.com</td>                                    <td>+255 719 031 371</td>                            </tr>
+                    <tr>
+                                    <td>WAMBURA</td>                                    <td>GIKARO</td>                                    <td>KOROSO</td>                                    <td>linus933@gmail.com</td>                                    <td>+255 713 221 716</td>                            </tr>
+                    <tr>
+                                    <td>JUDCATE</td>                                    <td>HUMPHREY</td>                                    <td>URASSA</td>                                    <td>patric933@gmail.com</td>                                    <td>+255 655 772 007</td>                            </tr>
+                    <tr>
+                                    <td>HAMIDA </td>                                    <td>MBARUKU</td>                                    <td>MATINGAS</td>                                    <td>pat33@gmail.com</td>                                    <td>+255 712 233 435</td>                            </tr>
+                    <tr>
+                                    <td>ASHRAFKHAN</td>                                    <td>HASSANKHAN</td>                                    <td>TAKUKHAN</td>                                    <td>hassankhan@gmail.com</td>                                    <td>+255 682 062 885</td>                            </tr>
+                    <tr>
+                                    <td>Eibariki</td>                                    <td>Aminiel</td>                                    <td>Akyoo</td>                                    <td>ely@gmail.com</td>                                    <td>+255 714 143 747</td>                            </tr>
+                    <tr>
+                                    <td>Eibariki</td>                                    <td>Aminiel</td>                                    <td>Akyoo</td>                                    <td>ely3@gmail.com</td>                                    <td>+255 714 236 589</td>                            </tr>
+                    <tr>
+                                    <td>Leah</td>                                    <td>Mugemula</td>                                    <td>Mugemula</td>                                    <td>keah@gmail.com</td>                                    <td>+255 717 631 054</td>                            </tr>
+                    <tr>
+                                    <td>Vita</td>                                    <td>shabani</td>                                    <td>Dungalazi</td>                                    <td>vit@gmail.com</td>                                    <td>+255 742 563 215</td>                            </tr>
+                    <tr>
+                                    <td>james</td>                                    <td>revilian</td>                                    <td>kahatano</td>                                    <td>siaj45@gmail.com</td>                                    <td>+255 712 354 123</td>                            </tr>
+            </tbody></table>
+</div>
+
+
+<script>
+    $('#report_preview_area_title').parent().attr('colspan', "5");
+</script>
+</div>

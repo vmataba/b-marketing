@@ -1,0 +1,302 @@
+[
+  {
+    "UserID": "271",
+    "JobApplicationID": "158",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1991-06-03"
+  },
+  {
+    "UserID": "391",
+    "JobApplicationID": "244",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1984-01-01"
+  },
+  {
+    "UserID": "491",
+    "JobApplicationID": "1020",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1974-01-14"
+  },
+  {
+    "UserID": "508",
+    "JobApplicationID": "319",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1983-10-06"
+  },
+  {
+    "UserID": "606",
+    "JobApplicationID": "1060",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1992-03-07"
+  },
+  {
+    "UserID": "750",
+    "JobApplicationID": "479",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1977-06-11"
+  },
+  {
+    "UserID": "805",
+    "JobApplicationID": "524",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1990-04-04"
+  },
+  {
+    "UserID": "859",
+    "JobApplicationID": "1458",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1983-12-05"
+  },
+  {
+    "UserID": "1158",
+    "JobApplicationID": "793",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1989-04-01"
+  },
+  {
+    "UserID": "1159",
+    "JobApplicationID": "817",
+    "WrongBirthDate": "2020-08-05",
+    "CorrectedBirthDate": "1994-12-24"
+  },
+  {
+    "UserID": "1240",
+    "JobApplicationID": "880",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1994-10-27"
+  },
+  {
+    "UserID": "1366",
+    "JobApplicationID": "974",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1992-05-19"
+  },
+  {
+    "UserID": "1432",
+    "JobApplicationID": "1014",
+    "WrongBirthDate": "2020-08-06",
+    "CorrectedBirthDate": "1991-08-06"
+  },
+  {
+    "UserID": "1562",
+    "JobApplicationID": "1104",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1969-09-11"
+  },
+  {
+    "UserID": "1615",
+    "JobApplicationID": "1166",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1992-06-16"
+  },
+  {
+    "UserID": "1660",
+    "JobApplicationID": "1187",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1987-12-23"
+  },
+  {
+    "UserID": "1662",
+    "JobApplicationID": "1184",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1980-03-09"
+  },
+  {
+    "UserID": "1795",
+    "JobApplicationID": "1276",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1992-06-18"
+  },
+  {
+    "UserID": "1825",
+    "JobApplicationID": "3316",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1991-04-10"
+  },
+  {
+    "UserID": "1924",
+    "JobApplicationID": "1367",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1993-09-28"
+  },
+  {
+    "UserID": "2079",
+    "JobApplicationID": "2712",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1986-09-04"
+  },
+  {
+    "UserID": "2259",
+    "JobApplicationID": "1585",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1990-03-31"
+  },
+  {
+    "UserID": "2313",
+    "JobApplicationID": "1724",
+    "WrongBirthDate": "2020-08-10",
+    "CorrectedBirthDate": "1975-06-19"
+  },
+  {
+    "UserID": "2378",
+    "JobApplicationID": "1687",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1989-02-05"
+  },
+  {
+    "UserID": "2387",
+    "JobApplicationID": "1688",
+    "WrongBirthDate": "2020-03-23",
+    "CorrectedBirthDate": "1986-03-23"
+  },
+  {
+    "UserID": "2390",
+    "JobApplicationID": "2425",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1973-06-03"
+  },
+  {
+    "UserID": "2755",
+    "JobApplicationID": "1905",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1984-08-03"
+  },
+  {
+    "UserID": "3006",
+    "JobApplicationID": "2062",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1993-10-07"
+  },
+  {
+    "UserID": "3036",
+    "JobApplicationID": "2595",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1997-04-10"
+  },
+  {
+    "UserID": "3109",
+    "JobApplicationID": "2117",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1987-05-02"
+  },
+  {
+    "UserID": "3230",
+    "JobApplicationID": "2187",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1992-06-12"
+  },
+  {
+    "UserID": "3650",
+    "JobApplicationID": "2500",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1991-01-26"
+  },
+  {
+    "UserID": "3932",
+    "JobApplicationID": "2703",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1976-10-28"
+  },
+  {
+    "UserID": "4070",
+    "JobApplicationID": "2790",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1990-01-09"
+  },
+  {
+    "UserID": "4260",
+    "JobApplicationID": "2917",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1973-12-31"
+  },
+  {
+    "UserID": "4444",
+    "JobApplicationID": "3065",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1991-08-10"
+  },
+  {
+    "UserID": "4512",
+    "JobApplicationID": "3307",
+    "WrongBirthDate": "2020-12-22",
+    "CorrectedBirthDate": "1992-12-22"
+  },
+  {
+    "UserID": "4660",
+    "JobApplicationID": "3187",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1986-03-01"
+  },
+  {
+    "UserID": "4683",
+    "JobApplicationID": "3210",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1987-03-02"
+  },
+  {
+    "UserID": "4689",
+    "JobApplicationID": "3348",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1987-12-12"
+  },
+  {
+    "UserID": "4735",
+    "JobApplicationID": "3266",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1989-02-02"
+  },
+  {
+    "UserID": "4743",
+    "JobApplicationID": "3255",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1981-11-25"
+  },
+  {
+    "UserID": "4972",
+    "JobApplicationID": "3894",
+    "WrongBirthDate": "2020-08-14",
+    "CorrectedBirthDate": "1972-12-14"
+  },
+  {
+    "UserID": "5220",
+    "JobApplicationID": "3719",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1994-09-10"
+  },
+  {
+    "UserID": "5228",
+    "JobApplicationID": "3607",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1989-06-13"
+  },
+  {
+    "UserID": "5471",
+    "JobApplicationID": "3820",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1981-11-07"
+  },
+  {
+    "UserID": "5485",
+    "JobApplicationID": "3832",
+    "WrongBirthDate": "2020-09-03",
+    "CorrectedBirthDate": "1991-02-27"
+  },
+  {
+    "UserID": "5582",
+    "JobApplicationID": "4038",
+    "WrongBirthDate": "2020-09-12",
+    "CorrectedBirthDate": "1987-09-12"
+  },
+  {
+    "UserID": "5597",
+    "JobApplicationID": "3919",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1991-04-10"
+  },
+  {
+    "UserID": "5650",
+    "JobApplicationID": "3959",
+    "WrongBirthDate": "0000-00-00",
+    "CorrectedBirthDate": "1976-06-22"
+  }
+]
